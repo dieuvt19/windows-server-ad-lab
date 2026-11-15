@@ -209,12 +209,12 @@ company.local
 
 **Status:** Planned
 
-- [ ] Configure DNS Server.
-- [ ] Create and configure DNS records.
-- [ ] Install DHCP Server.
-- [ ] Configure DHCP scopes.
-- [ ] Configure automatic IP assignment.
-- [ ] Test DNS resolution and DHCP functionality.
+- [x] Configure DNS Server.
+- [x] Create and configure DNS records.
+- [x] Install DHCP Server.
+- [x] Configure DHCP scopes.
+- [x] Configure automatic IP assignment.
+- [x] Test DNS resolution and DHCP functionality.
 
 ### Phase 4 – Group Policy Management
 
