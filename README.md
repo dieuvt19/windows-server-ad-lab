@@ -197,13 +197,13 @@ company.local
 
 **Status:** Planned
 
-- [ ] Install Active Directory Domain Services.
-- [ ] Promote Windows Server to Domain Controller.
-- [ ] Create the `company.local` domain.
-- [ ] Create Organizational Units (OUs).
-- [ ] Create users and security groups.
-- [ ] Join Windows 11 client to the domain.
-- [ ] Test domain authentication.
+- [x] Install Active Directory Domain Services.
+- [x] Promote Windows Server to Domain Controller.
+- [x] Create the `company.local` domain.
+- [x] Create Organizational Units (OUs).
+- [x] Create users and security groups.
+- [x] Join Windows 11 client to the domain.
+- [x] Test domain authentication.
 
 ### Phase 3 – DNS & DHCP Configuration
 
